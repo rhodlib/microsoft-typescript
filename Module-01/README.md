@@ -1,0 +1,5 @@
+- [Inside TypeScript by Anders Hejlsberg](https://www.youtube.com/watch?v=tXK50czRbdA)
+- [TypeScript Doc](https://www.typescriptlang.org/)
+- [TypeScript Repo](https://github.com/microsoft/TypeScript)
+- [Migrate from JS](https://github.com/microsoft/TypeScript)
+- [TypeScript Tutorial VSCode](https://code.visualstudio.com/docs/typescript/typescript-tutorial)
