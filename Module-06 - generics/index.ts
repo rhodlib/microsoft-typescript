@@ -91,4 +91,12 @@
   empIDs.AddOrUpdate(2, 90);
 
   // TODO Test items as objects.
+  type Pets = {
+    name: string;
+    breed: string;
+    age: number;
+  };
+
+  let pets = new DataStore<Pets>();
+  pets.AddOrUpdate(0, { name: "Rex", breed: "Golden Retriever", age: 5 });
 })();
